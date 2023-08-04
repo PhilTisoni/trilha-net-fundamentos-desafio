@@ -11,7 +11,7 @@ namespace DesafioFundamentos.Models
         {
             Console.Clear();
             Console.WriteLine("===============================\n" +
-                               "            DIO PARK\n" +
+                               "          DIO PARKING\n" +
                                "===============================\n");
 
             Console.WriteLine("Seja bem vindo ao sistema de estacionamento!\n");
